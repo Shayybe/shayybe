@@ -10,7 +10,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shayybe&theme=radical&hide_border=true" alt="Shayybe's GitHub Streak" />
 </a>
 ---
-## 📊 **Activity Graph**
+
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shayybe&theme=xcode&hide_border=true" alt="Activity graph">
 </a>
