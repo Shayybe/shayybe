@@ -3,7 +3,7 @@
 🚀 **Software Developer** | 🌍 **Open Source Enthusiast** | 💻 **Tech Lover**
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmJsZmJwa3VzNnBpZDd2YjhtYWphM3cwcmx3cjJta3MzM29nNGJjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bPCwGUF2sKjyE/giphy.gif)" alt="Coding GIF" width="200"/>
+  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmJsZmJwa3VzNnBpZDd2YjhtYWphM3cwcmx3cjJta3MzM29nNGJjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bPCwGUF2sKjyE/giphy.gif" alt="Coding GIF" width="200"/>
 </p>
 
 ---
