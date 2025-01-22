@@ -1,7 +1,9 @@
 # Hey there! 👋 I'm Shayybe
 
 🚀 **Software Developer** | 🌍 **Open Source Enthusiast** | 💻 **Tech Lover**
+
 ---
+
 ## 🔥 **GitHub Stats**
 <a href="https://github.com/shayybe">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shayybe&show_icons=true&theme=radical&hide_border=true" alt="Shayybe's GitHub Stats" />
@@ -24,26 +26,6 @@
     <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,py,java,html,css,git,github,vscode&theme=dark" />
   </a>
 </p>
-
----
-
-## 🌟 **Featured Projects**
-
-Here are some of my favorite projects I've worked on:
-
-- **[Project 1](https://github.com/shayybe/project1)** - A brief description of what this project does.
-- **[Project 2](https://github.com/shayybe/project2)** - Another brief description of what this project does.
-- **[Project 3](https://github.com/shayybe/project3)** - Yet another brief description of what this project does.
-
----
-
-## 📫 **How to Reach Me**
-
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-- **Twitter**: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-
----
 
 ## 🎉 **Fun Fact**
 
