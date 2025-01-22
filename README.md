@@ -10,10 +10,10 @@
 
 ## 🔥 **GitHub Stats**
 <a href="https://github.com/shayybe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shayybe&show_icons=true&theme=dark&hide_border=true" alt="Shayybe's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shayybe&show_icons=true&theme=dracula&hide_border=true" alt="Shayybe's GitHub Stats" />
 </a>
 <a href="https://github.com/shayybe">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shayybe&stroke=ff0000&ring=00ff00&fire=0000ff&currStreakNum=ffffff&sideNums=00ff00&currStreakLabel=0000ff&sideLabels=ff0000&dates=ffffff&background=000000&hide_border=true" alt="Shayybe's GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shayybe&theme=dracula&hide_border=true" alt="Shayybe's GitHub Streak" />
 </a>
 
 ---
