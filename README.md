@@ -9,6 +9,7 @@
 <a href="https://github.com/shayybe">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shayybe&theme=radical&hide_border=true" alt="Shayybe's GitHub Streak" />
 </a>
+
 ---
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
