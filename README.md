@@ -13,7 +13,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shayybe&show_icons=true&theme=dark&hide_border=true" alt="Shayybe's GitHub Stats" />
 </a>
 <a href="https://github.com/shayybe">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shayybe&theme=synthwave&hide_border=true" alt="Shayybe's GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shayybe&theme=highcontrast&hide_border=true" alt="Shayybe's GitHub Streak" />
 </a>
 
 ---
