@@ -5,19 +5,9 @@
 ---
 
 ### **About Me**
-- 🎮 **IRL Noob**, **GitHub Pro**  
-- 🧋 **Boba Fueled**, **Code Driven**  
+- 🎮 **IRL Noob**, **GitHub Sigma**  
 - 🐛 **Debugging My Life One Error at a Time**  
-- 🪐 **Existential Crisis Enthusiast**  
 - 🧑‍💻 **Professional Ctrl+C, Ctrl+V Artist**  
-
----
-
-### **My Vibe**
-- 🎧 *Currently Listening:* Lofi beats to code/debug/cry to  
-- 🍕 *Currently Eating:* Pizza (because sleep is for the weak)  
-- 📚 *Currently Learning:* How to adult (spoiler: it’s not going well)  
-- 🎮 *Currently Gaming:* My life on hard mode  
 
 ---
 
