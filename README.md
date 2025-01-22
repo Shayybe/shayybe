@@ -2,6 +2,10 @@
 
 🚀 **Software Developer** | 🌍 **Open Source Enthusiast** | 💻 **Tech Lover**
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" alt="Coding GIF" width="200"/>
+</p>
+
 ---
 
 ## 🔥 **GitHub Stats**
