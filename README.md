@@ -8,16 +8,6 @@
 
 ---
 
-## 🔥 **GitHub Stats**
-<a href="https://github.com/shayybe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shayybe&show_icons=true&theme=dark&hide_border=true" alt="Shayybe's GitHub Stats" />
-</a>
-<a href="https://github.com/shayybe">
-  <img align="center" src="https://streak-stats.demolab.com/?user=shayybe&theme=dark&hide_border=true" alt="Shayybe's GitHub Streak" />
-</a>
-
----
-
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shayybe&theme=xcode&hide_border=true" alt="Activity graph">
 </a>
