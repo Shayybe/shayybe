@@ -1,34 +1,23 @@
 # Hey there! 👋 I'm Shayybe
 
 🚀 **Software Developer** | 🌍 **Open Source Enthusiast** | 💻 **Tech Lover**
-
-Welcome to my GitHub profile! I'm passionate about building cool projects, contributing to open source, and constantly learning new technologies. Feel free to explore my repositories and don't hesitate to reach out if you have any questions or just want to chat!
-
 ---
-
 ## 🔥 **GitHub Stats**
-
 <a href="https://github.com/shayybe">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shayybe&show_icons=true&theme=radical&hide_border=true" alt="Shayybe's GitHub Stats" />
 </a>
-
 <a href="https://github.com/shayybe">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shayybe&theme=radical&hide_border=true" alt="Shayybe's GitHub Streak" />
 </a>
-
 ---
-
 ## 📊 **Activity Graph**
-
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shayybe&theme=xcode&hide_border=true" alt="Activity graph">
 </a>
-
 ---
-
 ## 🛠️ **Languages and Tools**
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,py,java,html,css,git,github,vscode&theme=dark" />
   </a>
