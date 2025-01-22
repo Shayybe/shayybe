@@ -1,6 +1,25 @@
-# Hey there! 👋 I'm Shayybe
+# 🌌 **Yo, I'm Shayybe** 🌌
 
-🚀 **Software Developer** | 🌍 **Open Source Enthusiast** | 💻 **Tech Lover**
+💫 **Code Wizard** | 🛸 **Open Source Simp** | 🧠 **Professional Brain Rot Enjoyer**
+
+---
+
+### **About Me**
+- 🎮 **IRL Noob**, **GitHub Pro**  
+- 🧋 **Boba Fueled**, **Code Driven**  
+- 🐛 **Debugging My Life One Error at a Time**  
+- 🪐 **Existential Crisis Enthusiast**  
+- 🧑‍💻 **Professional Ctrl+C, Ctrl+V Artist**  
+
+---
+
+### **My Vibe**
+- 🎧 *Currently Listening:* Lofi beats to code/debug/cry to  
+- 🍕 *Currently Eating:* Pizza (because sleep is for the weak)  
+- 📚 *Currently Learning:* How to adult (spoiler: it’s not going well)  
+- 🎮 *Currently Gaming:* My life on hard mode  
+
+---
 
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmJsZmJwa3VzNnBpZDd2YjhtYWphM3cwcmx3cjJta3MzM29nNGJjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bPCwGUF2sKjyE/giphy.gif" alt="Coding GIF" width="200"/>
