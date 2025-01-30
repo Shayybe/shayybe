@@ -1,13 +1,13 @@
 # 🌌 **Yo, I'm Shayybe** 🌌
 
-💫 **Code Wizard** | 🛸 **Open Source Simp** | 🧠 **Professional Brain Rot Enjoyer**
+💀 **Certified code gremlin** | 🚀 **Open-source cultist** | 🧠 **Brainrot enthusiast**
 
 ---
 
 ### **About Me**
-- 🎮 **IRL Noob**, **GitHub Sigma**  
+- 🎮 **Irl NPC**, **Github Final Boss**  
 - 🐛 **Debugging My Life One Error at a Time**  
-- 🧑‍💻 **Professional Ctrl+C, Ctrl+V Artist**  
+- 🧑‍💻 **Full-time Ctrl+C, Ctrl+V Engineer**  
 
 ---
 
@@ -30,9 +30,9 @@
   </a>
 </p>
 
-## 🎉 **Fun Fact**
 
-I once wrote a program that accidentally deleted my entire desktop. Lesson learned: always back up your data! 😅
+
+✨ **living on vibes, caffeine, & compiler errors** ✨
 
 ---
 
