@@ -1,4 +1,4 @@
-# 🌌 **Yo, I'm Shayybe** 🌌
+# 🌌 **Not too Shayybe** 🌌
 
 💀 **Certified code gremlin** | 🚀 **Open-source cultist** | 🧠 **Brainrot enthusiast**
 
