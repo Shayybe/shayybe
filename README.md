@@ -16,6 +16,11 @@ Passionate about building tools that solve real-world problems, I work across **
 - 🤖 Crafting AI-driven geospatial tools that make maps a little smarter
 ---
 
+<a href="https://your-link-here.com](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajFrY3RmZDJyM3Y1dDVzbW00MmhwdWRmZmpyanh3bjJpcWFoZWd0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2rdysIrBTfuJrMWhSz/giphy.gif">
+  <img src="https://media.giphy.com/media/bPCwGUF2sKjyE/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajFrY3RmZDJyM3Y1dDVzbW00MmhwdWRmZmpyanh3bjJpcWFoZWd0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2rdysIrBTfuJrMWhSz/giphy.gif" width="300" alt="Cool GIF">
+</a>
+
+
 ### **Languages & Tools**
 <p align="center">
   <a href="https://skillicons.dev">
