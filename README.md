@@ -9,7 +9,6 @@
   <img src="https://media4.giphy.com/media/2rdysIrBTfuJrMWhSz/giphy.gif" width="400" alt="Cool Animation">
 </p>
 
-
 ### **About Me**
 I’m a **full-stack software developer** with expertise in **GIS applications**, geospatial applications, and interactive web/mobile solutions.  
 Passionate about building tools that solve real-world problems, I work across **Java, Kotlin, JavaScript/TypeScript, Python**, and modern frameworks like **React** and **Flutter**.  
