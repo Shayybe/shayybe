@@ -1,4 +1,4 @@
-# **Shahbaz Ather Ansari**  
+# **Shayybe**  
 💻 Full-Stack Developer | 🌐 GIS & Applied AI | 🎯 Doing side quests
 
 ---
