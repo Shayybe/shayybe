@@ -1,38 +1,38 @@
-# 🌌 **Not too Shayybe** 🌌
-
-💀 **Certified code gremlin** | 🚀 **Open-source cultist** | 🧠 **Brainrot enthusiast**
+# **Shahbaz Ather Ansari**  
+💻 **Full-Stack Developer** | 📍 GIS & Mapping Specialist | 🚀 Open-Source Contributor  
 
 ---
 
 ### **About Me**
-- 🎮 **Irl NPC**, **Github Final Boss**  
-- 🐛 **Debugging My Life One Error at a Time**  
-- 🧑‍💻 **Full-time Ctrl+C, Ctrl+V Engineer**  
+I’m a **full-stack software developer** with expertise in **GIS applications**, offline mapping, and interactive web/mobile solutions.  
+Passionate about building tools that solve real-world problems, I work across **Java, Kotlin, JavaScript/TypeScript, Python**, and modern frameworks like **React** and **Flutter**.  
+
+- 🗺️ Experienced in **offline navigation & spatial data processing**  
+- ⚙️ Skilled in **full-stack architecture** (Node.js, React, MongoDB, SQL)  
+- 📡 Familiar with **Android development**, including mapping SDKs & geospatial APIs  
+- 💡 Advocate for **clean code, maintainable systems, and open-source collaboration**  
 
 ---
 
+### **Languages & Tools**
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmJsZmJwa3VzNnBpZDd2YjhtYWphM3cwcmx3cjJta3MzM29nNGJjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bPCwGUF2sKjyE/giphy.gif" alt="Coding GIF" width="200"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,py,java,kotlin,html,css,git,github,flutter,figma,vscode,mongodb,mysql&perline=12&theme=dark" />
+  </a>
 </p>
+
+---
+
+### **Projects**
+- 📍 **[Offline Navigation App](#)** – Android app with offline routing & WMS/WFS integration  
+- 🏥 **[Hospital Management System](#)** – Android + Firebase system for real-time hospital operations  
+- 🌐 **[User-Based Web GIS](#)** – Interactive spatial data visualization with Node.js & MongoDB  
 
 ---
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shayybe&theme=xcode&hide_border=true" alt="Activity graph">
 </a>
-
----
-## 🛠️ **Languages and Tools**
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,py,java,kotlin,figma,html,css,git,github,vscode,flutter&perline=12&theme=dark" />
-  </a>
-</p>
-
-
-
-✨ **living on vibes, caffeine, & compiler errors** ✨
 
 ---
 
