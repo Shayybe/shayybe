@@ -5,9 +5,8 @@
 💻 Full-Stack Developer | 🌐 GIS & Applied AI | 🎯 Doing side quests
 
 ---
-<p align="center">
-  <img src="https://media4.giphy.com/media/2rdysIrBTfuJrMWhSz/giphy.gif" width="400" alt="Cool Animation">
-</p>
+![giphy](https://github.com/user-attachments/assets/1e378e1a-be46-41aa-b4c7-f962d1c6f81c)
+
 
 ### **About Me**
 I’m a **full-stack software developer** with expertise in **GIS applications**, geospatial applications, and interactive web/mobile solutions.  
