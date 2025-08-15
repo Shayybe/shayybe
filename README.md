@@ -5,7 +5,9 @@
 💻 Full-Stack Developer | 🌐 GIS & Applied AI | 🎯 Doing side quests
 
 ---
-![giphy](https://github.com/user-attachments/assets/1e378e1a-be46-41aa-b4c7-f962d1c6f81c)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1e378e1a-be46-41aa-b4c7-f962d1c6f81c" alt="giphy" width="400" />
+</p>
 
 
 ### **About Me**
