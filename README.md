@@ -1,17 +1,16 @@
 # **Shahbaz Ather Ansari**  
-💻 **Full-Stack Developer** | 📍 GIS & Mapping Specialist | 🚀 Open-Source Contributor  
+💻 Full-Stack Developer | 🌐 GIS & Applied AI | 🎯 Doing side quests
 
 ---
 
 ### **About Me**
-I’m a **full-stack software developer** with expertise in **GIS applications**, offline mapping, and interactive web/mobile solutions.  
+I’m a **full-stack software developer** with expertise in **GIS applications**, geospatial applications, and interactive web/mobile solutions.  
 Passionate about building tools that solve real-world problems, I work across **Java, Kotlin, JavaScript/TypeScript, Python**, and modern frameworks like **React** and **Flutter**.  
 
 - 🗺️ Experienced in **offline navigation & spatial data processing**  
 - ⚙️ Skilled in **full-stack architecture** (Node.js, React, MongoDB, SQL)  
 - 📡 Familiar with **Android development**, including mapping SDKs & geospatial APIs  
-- 💡 Advocate for **clean code, maintainable systems, and open-source collaboration**  
-
+- 🤖 Crafting AI-driven geospatial tools that make maps a little smarter
 ---
 
 ### **Languages & Tools**
@@ -20,13 +19,6 @@ Passionate about building tools that solve real-world problems, I work across **
     <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,py,java,kotlin,html,css,git,github,flutter,figma,vscode,mongodb,mysql&perline=12&theme=dark" />
   </a>
 </p>
-
----
-
-### **Projects**
-- 📍 **[Offline Navigation App](#)** – Android app with offline routing & WMS/WFS integration  
-- 🏥 **[Hospital Management System](#)** – Android + Firebase system for real-time hospital operations  
-- 🌐 **[User-Based Web GIS](#)** – Interactive spatial data visualization with Node.js & MongoDB  
 
 ---
 
