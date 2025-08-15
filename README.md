@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey World!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hello%20World!🕹️&fontSize=30" />
 </p>
+
 💻 Full-Stack Developer | 🌐 GIS & Applied AI | 🎯 Doing side quests
 
 ---
