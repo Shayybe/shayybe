@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Shayybe!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>💻 Full-Stack Developer | 🌐 GIS & Applied AI | 🎯 Doing side quests
+</p>
+💻 Full-Stack Developer | 🌐 GIS & Applied AI | 🎯 Doing side quests
 
 ---
 
