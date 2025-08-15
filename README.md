@@ -12,7 +12,7 @@
 
 ### **About Me**
 I’m a **full-stack software developer** with expertise in **GIS applications**, geospatial applications, and interactive web/mobile solutions.  
-Passionate about building tools that solve real-world problems, I work across **Java, Kotlin, JavaScript/TypeScript, Python**, and modern frameworks like **React** and **Flutter**.  
+Passionate about building tools that solve problems, I work across **Java, Kotlin, JavaScript/TypeScript, Python**, and modern frameworks like **React** and **Flutter**.  
 
 - 🗺️ Experienced in **offline navigation & spatial data processing**  
 - ⚙️ Skilled in **full-stack architecture** (Node.js, React, MongoDB, SQL)  
